@@ -1,5 +1,9 @@
 # YouTube-Objects v2.3
 
+## Explore
+You can explore the annotated frames with the [Dataset viewer](https://vkalogeiton.github.io/yto-dataset/).
+
+## Download
 1. Download and extract the directory called `YTOdevkit` 
 
        curl http://groups.inf.ed.ac.uk/calvin/YTOv2.3/YTOdevkit.tar.gz | tar xz
