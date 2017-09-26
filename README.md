@@ -1,5 +1,13 @@
 # YouTube-Objects v2.3
 
+Vicky Kalogeiton, Vittorio Ferrari, and Cordelia Schmid
+
+## Description
+The dataset is composed of videos collected from YouTube for 10 moving object classes of the PASCAL VOC Challenge. This release 
+provides the annotations in PASCAL VOC 2007 format for the same 7,000 bounding-box annotations from the [YTO v2.2](http://calvin.inf.ed.ac.uk/datasets/youtube-objects-dataset/). 
+
+In the training set, we annotated one instance per frame, while in the test set we annotated all instances of the desired object class. 
+
 ## Explore
 You can explore the annotated frames with the [Dataset viewer](https://vkalogeiton.github.io/yto-dataset/).
 
