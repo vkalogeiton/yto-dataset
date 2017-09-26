@@ -32,4 +32,16 @@ It should have this basic structure
     │   ├── ImageSets/
     │   └── JPEGImages/
     └── ...
+## References
+If you find YouTube-Objects v2.3 useful in your research, please consider citing:
 
+    @article{kalogeiton16pami,
+      title={Analysing domain shift factors between videos and images for object detection},
+      author={Kalogeiton, Vicky and Ferrari, Vittorio and Schmid, Cordelia},
+      journal={IEEE transactions on pattern analysis and machine intelligence},
+      volume={38},
+      number={11},
+      pages={2327--2334},
+      year={2016},
+      publisher={IEEE}
+    }
